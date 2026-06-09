@@ -1,13 +1,15 @@
 # Hey there, 👋
 
-I’m a **Java Full Stack Developer** with a passion for **DevOps** and building scalable, high-performance applications.
+I’m a **Java/.Net Full Stack Developer** with a passion for **DevOps** and building scalable, high-performance applications.
 
 ---
 
 ## 🚀 Tech Stack
 
-**Frontend:** JavaScript, TypeScript, Next.js  
-**Backend:** Java, Spring Boot, Microservices, Stream API  
+**Frontend:** JavaScript, TypeScript, React-JS, Next.js  -
+
+**Backend:** Java, Spring Boot, Microservices, Stream API, c#, .Net Core Web API, LINQ -
+
 **DevOps & Cloud:** Docker, Kubernetes, Nginx, Linux, AWS 
 
 ---
