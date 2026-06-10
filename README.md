@@ -8,7 +8,7 @@ I’m a **Java/.Net Full Stack Developer** with a passion for **DevOps** and bui
 
 **Frontend:** JavaScript, TypeScript, React-JS, Next.js  -
 
-**Backend:** Java, Spring Boot, Microservices, Stream API, c#, .Net Core Web API, LINQ -
+**Backend:** Java, Spring Boot, Microservices, Stream API, C#, .Net Core Web API, LINQ -
 
 **DevOps & Cloud:** Docker, Kubernetes, Nginx, Linux, AWS 
 
